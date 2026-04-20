@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HACS-bank. I am new to github, docker and raspberry pi, and to python, but not to Unix nor to systems engineering
 - 👀 I’m interested in micro generation and time of use tariffs
 - 🌱 I’m currently learning Home Assistant 
-- 💞️ I’m looking to collaborate on linking devices with RESTful interfaces to HA
+- 💞️ I’m looking to ...
 - 📫 How to reach me ... 
 
 <!---
